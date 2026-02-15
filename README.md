@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## 👩‍💻Marina Herrera
+# 👩‍💻Marina Herrera
 Olá, chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Estou em constante evolução como desenvolvedora Full Stack, sempre buscando aprender, praticar e melhorar minhas habilidades.
 
 <div> 
