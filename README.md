@@ -7,7 +7,7 @@
 </div>
 
 ## 👩‍💻Marina Herrera
-Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Estou em constante evolução como desenvolvedora Full Stack, sempre buscando aprender, praticar e melhorar minhas habilidades e tentando ser ativa por aqui!
+Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Estou em constante evolução como desenvolvedora Full Stack, sempre buscando aprender, praticar, melhorar minhas habilidades e tentando ser ativa por aqui!
 
 <div> 
  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
