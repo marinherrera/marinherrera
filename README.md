@@ -13,17 +13,18 @@ Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenha
 
 <div>
 
-<a href="https://www.linkedin.com/in/marina-herrera-4718a6325">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/>
-</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marina-herrera-4718a6325" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px"/>
+  </a>
+  
+  <a href="https://www.instagram.com/_.h3rrera" style="text-decoration: none; margin-left: 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35px"/>
+  </a>
+  
+  <a href="https://twitter.com/maScaled" style="text-decoration: none; margin-left: 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35px"/>
+  </a>
 
-<a href="https://www.instagram.com/_.h3rrera">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px"/>
-</a>
-
-<a href="https://twitter.com/maScaled">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px"/>
-</a>
 </div>
 
 ### 🤖 Linguagens e Tecnologias
