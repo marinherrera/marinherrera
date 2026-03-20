@@ -9,8 +9,7 @@
 ## 👩‍💻Marina Herrera
 Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Estou em constante evolução como desenvolvedora Full Stack, sempre buscando aprender, praticar, melhorar minhas habilidades e tentando ser ativa por aqui!
 
-## 🌐 Redes sociais
-
+### 🌐 Redes sociais
 
 <div>
 
@@ -19,8 +18,8 @@ Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenha
 </a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_.h3rrera">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30px"/>
-</a>&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px"/>
+</a>
 
 <a href="https://twitter.com/maScaled">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px"/>
