@@ -9,8 +9,10 @@
 ## 👩‍💻Marina Herrera
 Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Estou em constante evolução como desenvolvedora Full Stack, sempre buscando aprender, praticar, melhorar minhas habilidades e tentando ser ativa por aqui!
 
-<div> 
- ## 🌐 Redes sociais
+## 🌐 Redes sociais
+
+
+<div>
 
 <a href="https://www.linkedin.com/in/marina-herrera-4718a6325">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/>
