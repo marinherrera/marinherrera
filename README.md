@@ -9,21 +9,18 @@
 ## 👩‍💻Marina Herrera
 Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Estou em constante evolução como desenvolvedora Full Stack, sempre buscando aprender, praticar, melhorar minhas habilidades e tentando ser ativa por aqui!
 
-### 🌐 Redes sociais
+### 🌐 Redes Sociais
 
 <div>
 
-<a href="https://www.linkedin.com/in/marina-herrera-4718a6325" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marina-herrera-4718a6325">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         onmouseover="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg'"
+         onmouseout="this.src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg'"
+         width="35px"/>
   </a>
-  
-  <a href="https://www.instagram.com/_.h3rrera" style="text-decoration: none; margin-left: 15px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35px"/>
-  </a>
-  
-  <a href="https://twitter.com/maScaled" style="text-decoration: none; margin-left: 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35px"/>
-  </a>
+</p>
 
 </div>
 
