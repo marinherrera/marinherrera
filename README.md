@@ -12,6 +12,7 @@ Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenha
 <div> 
  <a href="https://www.linkedin.com/in/marina-herrera-4718a6325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_.h3rrera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maScaled)
 </div>
 
 ### 🤖 Linguagens e Tecnologias
