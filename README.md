@@ -13,19 +13,17 @@ Olá, me chamo Marina Herrera Moreira, tenho 20 anos e sou graduanda em _Engenha
 
 <div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/marina-herrera-4718a6325">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35px"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/marina-herrera-4718a6325">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px"/>
+</a>&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/_.h3rrera">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="35px"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/_.h3rrera">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30px"/>
+</a>&nbsp;&nbsp;
 
-  <a href="https://twitter.com/maScaled">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="35px"/>
-  </a>
-</p>
+<a href="https://twitter.com/maScaled">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30px"/>
+</a>
 
 </div>
 
