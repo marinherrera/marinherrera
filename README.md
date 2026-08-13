@@ -7,7 +7,7 @@
 </div>
 
 ## 👩‍💻Marina Herrera
-Olá, me chamo Marina Herrera Moreira, sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Atualmente, estou focada em desenvolvimento Front-End, sempre buscando aprender, melhorar minhas habilidades e tentando ser ativa por aqui!
+Olá, me chamo Marina Herrera Moreira, sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Atualmente, estou focada em desenvolvimento Full Stack, sempre buscando aprender, melhorar minhas habilidades e tentando ser ativa por aqui!
 
 ### 🌐 Redes
 
