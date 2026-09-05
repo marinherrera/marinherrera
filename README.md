@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kau%C3%A3-novaes-705343219">
+<a href="https://www.linkedin.com/in/marina-herrera-4718a6325">
   <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=C084FC"/>
 </a>
 
-<a href="mailto:kaua13novaes@gmail.com">
+<a href="mailto:herreramoreiira@gmail.com">
   <img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
 </a>
 
@@ -26,13 +26,12 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,git," />
 </div>
 
-
+</picture>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marinherrera/marinherrera/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marinherrera/marinherrera/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marinherrera/marinherrera/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
