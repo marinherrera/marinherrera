@@ -17,7 +17,7 @@
 <div align="center">
   <h1> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Sobre mim </h1>
 
-  Sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Atualmente, estou focada em desenvolvimento fullstack, sempre buscando aprender, melhorar minhas habilidades e tentando ser ativa por aqui!
+  Sou graduanda em _Engenharia de Software_ pela Universidade de Mogi das Cruzes (UMC). Atualmente, estou focada em desenvolvimento fullstack Java, sempre buscando aprender, melhorar minhas habilidades e tentando ser ativa por aqui!
 </div>
 
 <h2 align="center">💻 Tech Stack</h2>
